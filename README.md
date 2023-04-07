@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Joe. I'm a web designer and developer currently working on creating templates for web design as well as APIs and tools. <br>I'm passionate about collaborating with innovative minds and dedicated engineers. <br>I specialize in JavaScript and Python and I'm currently learning Golang and C++. <br>Let's connect and create something awesome together!
+Hello, I'm Joe. I'm a web designer and developer currently working on creating templates for web design as well as APIs and tools. <br>I'm passionate about collaborating with innovative minds and dedicated engineers. <br>I specialize in JavaScript and Python and I'm currently working on projects in Golang and C++. <br>Let's connect and create something awesome together!
 
 
 ## 🌐 Socials:
