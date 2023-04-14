@@ -1,5 +1,5 @@
 # 💫 Hi, Joe here👋
-A full-stack engineer. I enjoying creating and maintaining tools.<br>I'm passionate about collaborating with innovative minds and dedicated engineers.<br>I am a fan and enthusiast of JavaScript and Python, I'm currently working on projects in Golang and C++.<br>Let's connect and create something awesome together!
+A full-stack engineer. I enjoying creating and maintaining tools.<br>I so love to collaborate with determined, innovative and dedicated engineers.<br>I am a fan and enthusiast of Python and Javascript, I'm currently working on projects in Golang and C++.<br>Let's connect and create something awesome together!
 
 
 ## 🌐 Socials:
