@@ -1,6 +1,6 @@
 # 💫 Hi, Joe here👋
 
-A tech enthusiast.<br>collaborate, innovative and engineering.<br>enthusiast of Python, Javascript, Golang and C++.<br>connect, create something awesome!
+A tech enthusiast.<br>An AI & Cybersecurity professional<br>Python, Javascript, Golang.<br> The world 🌎 is a better place with you.
 
 
 ## 🌐 Socials:
