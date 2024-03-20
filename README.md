@@ -17,7 +17,7 @@ A software developer and cyber security personnel
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
