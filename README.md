@@ -1,6 +1,7 @@
-# 💫 Hi, Joe here👋
+# 💫 Hi, I am Joe👋
 
-A tech enthusiast.<br>An AI & Cybersecurity professional<br>Python, Javascript, Golang.<br> The world 🌎 is a better place with you.
+A software developer and cyber security personnel
+.
 
 
 ## 🌐 Socials:
