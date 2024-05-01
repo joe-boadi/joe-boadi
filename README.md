@@ -1,6 +1,6 @@
 ## Hi, I am Joe👋
 
-### A software developer and cyber security personnel
+### A software developer & cyber security personnel
 
 # 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/https://discord.gg/hR5CmB3r) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kwadjo-boadi-mantey-43b670271/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/Orion-J) [![](https://img.shields.io/badge/X-%231DA1F2.svg?logo=X&logoColor=black)](https://x.com/https://x.com/joeboadiDev_) 
