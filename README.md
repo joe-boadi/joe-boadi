@@ -1,4 +1,4 @@
-## Hi, I am Joe👋
+## Open to work👋
 
 ### A software developer & cyber security personnel
 
