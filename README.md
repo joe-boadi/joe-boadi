@@ -1,4 +1,4 @@
-## A software developer (react.ts)
+## A software developer (React TSX)
 
 ### The purpose of software engineering is to control complexity, not to create it
 
