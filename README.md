@@ -23,7 +23,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
-### 🏢 Organizations I have worked with
+### 🏢 Organizations worked for:
 - [AmaliTech](https://github.com/Amali-Tech) - _Current_
 - [Ideation Axis](https://github.com/Ideation-Axis-Intern) - _2023_
 
