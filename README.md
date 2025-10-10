@@ -1,4 +1,4 @@
-## [A front-end engineer](https://portfolio-joe-boadis-projects.vercel.app/)
+## [A fullstack engineer](https://portfolio-joe-boadis-projects.vercel.app/)
 
 ### The purpose of software engineering is to control complexity, not to create it
 
