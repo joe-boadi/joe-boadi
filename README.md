@@ -24,7 +24,7 @@
 
 
 ### 🏢 Organizations worked for:
-- [AmaliTech](https://github.com/Amali-Tech) - _Current_
+- [AmaliTech](https://github.com/Amali-Tech) - _2024 - 2025_
 - [Ideation Axis](https://github.com/Ideation-Axis-Intern) - _2023_
 
 
