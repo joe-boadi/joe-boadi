@@ -24,6 +24,7 @@
 
 
 ### 🏢 Organizations worked for:
+- [Pandora Software Consulting Ltd](https://github.com/PSCGH-Biz360-Super-App) - _2026 (April) - Now_
 - [AmaliTech](https://github.com/Amali-Tech) - _2024 - 2025_
 - [Ideation Axis](https://github.com/Ideation-Axis-Intern) - _2023_
 
